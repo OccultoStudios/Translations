@@ -3,3 +3,6 @@
 # Translations for Occulto
 
 If you would like to contribute, please open a pull request.
+
+> [!WARNING]
+> All language files must be in UTF-8 format.
