@@ -4,5 +4,7 @@
 
 If you would like to contribute, please open a pull request.
 
+For a list of tasks, please check out [our project board](https://github.com/orgs/OccultoStudios/projects/6).
+
 > [!WARNING]
 > All language files must be in UTF-8 format.
